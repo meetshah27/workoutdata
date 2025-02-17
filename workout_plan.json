@@ -1,0 +1,20 @@
+{
+  "name": "Cardio Workout 1",
+  "exercises": [
+    {
+      "name": "Rowing machine",
+      "target": 500,
+      "unit": "meters"
+    },
+    {
+      "name": "Curved treadmill",
+      "target": 180,
+      "unit": "seconds"
+    },
+    {
+      "name": "Airbike",
+      "target": 250,
+      "unit": "meters"
+    }
+  ]
+}
